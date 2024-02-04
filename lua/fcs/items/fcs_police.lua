@@ -97,7 +97,7 @@ FCS.DefineItem("gtaiv_cop_shirt", {
 	Category = catname,
 	Type = FCS_SHIRT,
 	BoneMods = FEMALEFIX,
-	Model = "models/fcs/gtaiv/cop/body_04.mdl",
+	Model = "models/fcs/gtaiv/cop/body_11.mdl",
 	Skin = 1,
 })
 
@@ -106,7 +106,7 @@ FCS.DefineItem("gtaiv_cop_shirtdark", {
 	Category = catname,
 	Type = FCS_SHIRT,
 	BoneMods = FEMALEFIX,
-	Model = "models/fcs/gtaiv/cop/body_04.mdl",
+	Model = "models/fcs/gtaiv/cop/body_11.mdl",
 	Skin = 0,
 })
 

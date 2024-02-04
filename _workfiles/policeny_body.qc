@@ -1,5 +1,5 @@
 
-$modelname "fcs/gtaiv/cop/body_04.mdl"
+$modelname "fcs/gtaiv/cop/body_11.mdl"
 
 $bodygroup "ref"
 {
