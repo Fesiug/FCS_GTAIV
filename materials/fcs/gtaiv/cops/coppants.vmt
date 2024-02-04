@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "fcs/gtaiv/cops/coppants"
+	"$bumpmap" "fcs/gtaiv/cops/coppants_n"
+	"$halflambert" "1"
+
+	$rimlight 1
+	$rimlightexponent 10
+	$rimlightboost 0.5
+
+	$envmap env_cubemap
+	$envmaptint "[0.005 0.005 0.005]"
+	$phong 1
+	$phongboost 0.01
+	$phongexponent 30
+	$phongalbedotint 1
+	$phongfresnelranges "[1 4 7]"
+}
